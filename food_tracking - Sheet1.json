@@ -1,0 +1,1130 @@
+[
+ {
+  "food_name": "กระเพาะปลา",
+  "calories": 150,
+  "sugar": 1,
+  "sodium": 102
+ },
+ {
+  "food_name": "ก๋วยจั๊บ",
+  "calories": 240,
+  "sugar": 0,
+  "sodium": 30
+ },
+ {
+  "food_name": "ก๋วยจั๊บญวณ",
+  "calories": 235,
+  "sugar": 10,
+  "sodium": 30
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวคั่วไก่",
+  "calories": 435,
+  "sugar": 1,
+  "sodium": 961
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวต้มยำกุ้ง",
+  "calories": 320,
+  "sugar": 4,
+  "sodium": 1830
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวผัดไทยใส่ไข่",
+  "calories": 577,
+  "sugar": 51,
+  "sodium": 1859
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเรือน้ำตก",
+  "calories": 180,
+  "sugar": 1,
+  "sodium": 65
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเส้นเล็กต้มยำหมู",
+  "calories": 335,
+  "sugar": 4,
+  "sodium": 2507
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเส้นใหญ่ผัดซีอิ๊วใส่ไข่",
+  "calories": 520,
+  "sugar": 5,
+  "sodium": 2051
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเส้นใหญ่ราดหน้าไก่",
+  "calories": 397,
+  "sugar": 5,
+  "sodium": 2000
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเส้นใหญ่ราดหน้าหมู",
+  "calories": 397,
+  "sugar": 5,
+  "sodium": 2000
+ },
+ {
+  "food_name": "กุ้งแช่น้ำปลา",
+  "calories": 14,
+  "sugar": 0,
+  "sodium": 400
+ },
+ {
+  "food_name": "กุ้งทอดกระเทียมพริกไทย",
+  "calories": 86,
+  "sugar": 2,
+  "sodium": 1500
+ },
+ {
+  "food_name": "กุ้งผัดพริกอ่อน",
+  "calories": 235,
+  "sugar": 3,
+  "sodium": 600
+ },
+ {
+  "food_name": "กุ้งฝอยชุบแป้งทอด",
+  "calories": 308,
+  "sugar": 1,
+  "sodium": 344
+ },
+ {
+  "food_name": "กุ้งอบวุ้นเส้น",
+  "calories": 300,
+  "sugar": 10,
+  "sodium": 5748
+ },
+ {
+  "food_name": "กุนเชียงทอด",
+  "calories": 120,
+  "sugar": 5,
+  "sodium": 600
+ },
+ {
+  "food_name": "กุยช่ายทอด",
+  "calories": 114,
+  "sugar": 7,
+  "sodium": 403
+ },
+ {
+  "food_name": "เกาเหลาลูกชิ้นน้ำ",
+  "calories": 225,
+  "sugar": 1,
+  "sodium": 675
+ },
+ {
+  "food_name": "เกี๊ยวซ่า",
+  "calories": 63,
+  "sugar": 1,
+  "sodium": 130
+ },
+ {
+  "food_name": "เกี๊ยวกุ้งน้ำ",
+  "calories": 275,
+  "sugar": 8,
+  "sodium": 1500
+ },
+ {
+  "food_name": "แกงกะหรี่ไก่",
+  "calories": 450,
+  "sugar": 20,
+  "sodium": 1380
+ },
+ {
+  "food_name": "แกงกะหรี่หมู",
+  "calories": 325,
+  "sugar": 20,
+  "sodium": 1380
+ },
+ {
+  "food_name": "แกงขี้เหล็ก",
+  "calories": 195,
+  "sugar": 0,
+  "sodium": 596
+ },
+ {
+  "food_name": "แกงเขียวหวานไก่",
+  "calories": 240,
+  "sugar": 10,
+  "sodium": 451
+ },
+ {
+  "food_name": "แกงเขียวหวานลูกชิ้นปลากราย",
+  "calories": 240,
+  "sugar": 10,
+  "sodium": 451
+ },
+ {
+  "food_name": "แกงเขียวหวานหมู",
+  "calories": 235,
+  "sugar": 10,
+  "sodium": 451
+ },
+ {
+  "food_name": "แกงจืดไข่เจียว",
+  "calories": 120,
+  "sugar": 1,
+  "sodium": 501
+ },
+ {
+  "food_name": "แกงจืดตำลึงหมูสับ",
+  "calories": 90,
+  "sugar": 1,
+  "sodium": 434
+ },
+ {
+  "food_name": "แกงจืดเต้าหู้ไม่ใส่หมูสับ",
+  "calories": 80,
+  "sugar": 1,
+  "sodium": 434
+ },
+ {
+  "food_name": "แกงจืดเต้าหู้ยัดไส้",
+  "calories": 110,
+  "sugar": 1,
+  "sodium": 434
+ },
+ {
+  "food_name": "แกงจืดมะระยัดไส้หมูวุ้นเส้น",
+  "calories": 66,
+  "sugar": 1,
+  "sodium": 2000
+ },
+ {
+  "food_name": "แกงมัสมั่นไก่",
+  "calories": 325,
+  "sugar": 2,
+  "sodium": 612
+ },
+ {
+  "food_name": "แกงเลียง",
+  "calories": 115,
+  "sugar": 2,
+  "sodium": 516
+ },
+ {
+  "food_name": "แกงส้ม",
+  "calories": 28,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มชะอมไข่ทอดใส่กุ้ง",
+  "calories": 270,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มดอกแคกุ้ง",
+  "calories": 105,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มปลาช่อนผักบุ้ง",
+  "calories": 105,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มปลาแป๊ะซะ",
+  "calories": 160,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มผักกระเฉดปลา",
+  "calories": 110,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มผักบุ้งปลาช่อน",
+  "calories": 105,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงส้มผักรวม",
+  "calories": 120,
+  "sugar": 8,
+  "sodium": 1900
+ },
+ {
+  "food_name": "แกงหมูเทโพ",
+  "calories": 300,
+  "sugar": 28,
+  "sodium": 624
+ },
+ {
+  "food_name": "ไก่ทอด",
+  "calories": 345,
+  "sugar": 1,
+  "sodium": 400
+ },
+ {
+  "food_name": "ไก่ผัดขิง",
+  "calories": 210,
+  "sugar": 2,
+  "sodium": 560
+ },
+ {
+  "food_name": "ไก่ย่าง",
+  "calories": 165,
+  "sugar": 1,
+  "sodium": 400
+ },
+ {
+  "food_name": "ขนมจีน",
+  "calories": 80,
+  "sugar": 1,
+  "sodium": 500
+ },
+ {
+  "food_name": "ขนมจีนแกงเขียวหวานไก่",
+  "calories": 594,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีนซาวน้ำ",
+  "calories": 320,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีนน้ำเงี้ยว",
+  "calories": 243,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีนน้ำพริก",
+  "calories": 228,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีนน้ำยา",
+  "calories": 332,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีนน้ำยาปักษ์ใต้",
+  "calories": 146,
+  "sugar": 7,
+  "sodium": 2738
+ },
+ {
+  "food_name": "ขนมจีบหมู",
+  "calories": 32,
+  "sugar": 0,
+  "sodium": 450
+ },
+ {
+  "food_name": "ข้าวกะเพราเนื้อ",
+  "calories": 622,
+  "sugar": 4,
+  "sodium": 540
+ },
+ {
+  "food_name": "ข้าวกุ้งทอดกระเทียม",
+  "calories": 495,
+  "sugar": 1,
+  "sodium": 423
+ },
+ {
+  "food_name": "ข้าวแกงกะหรี่ไก่",
+  "calories": 389,
+  "sugar": 20,
+  "sodium": 1443
+ },
+ {
+  "food_name": "ข้าวไก่อบ",
+  "calories": 490,
+  "sugar": 1,
+  "sodium": 300
+ },
+ {
+  "food_name": "ข้าวขาหมู",
+  "calories": 690,
+  "sugar": 2,
+  "sodium": 450
+ },
+ {
+  "food_name": "ข้าวไข่เจียว",
+  "calories": 445,
+  "sugar": 1,
+  "sodium": 350
+ },
+ {
+  "food_name": "ข้าวคลุกกะปิ",
+  "calories": 410,
+  "sugar": 7,
+  "sodium": 712
+ },
+ {
+  "food_name": "ข้าวซอยไก่",
+  "calories": 395,
+  "sugar": 7,
+  "sodium": 1438
+ },
+ {
+  "food_name": "ข้าวซอยหมู",
+  "calories": 395,
+  "sugar": 10,
+  "sodium": 1438
+ },
+ {
+  "food_name": "ข้าวต้ม ",
+  "calories": 120,
+  "sugar": 2,
+  "sodium": 300
+ },
+ {
+  "food_name": "ข้าวต้มทรงเครื่อง",
+  "calories": 230,
+  "sugar": 2,
+  "sodium": 440
+ },
+ {
+  "food_name": "ข้าวต้มปลา",
+  "calories": 325,
+  "sugar": 2,
+  "sodium": 440
+ },
+ {
+  "food_name": "ข้าวผัดกะเพราหมูกรอบ",
+  "calories": 650,
+  "sugar": 2,
+  "sodium": 1586
+ },
+ {
+  "food_name": "ข้าวผัดกะเพรากุ้ง",
+  "calories": 540,
+  "sugar": 5,
+  "sodium": 1448
+ },
+ {
+  "food_name": "ข้าวผัดกะเพราไก่",
+  "calories": 630,
+  "sugar": 1,
+  "sodium": 1586
+ },
+ {
+  "food_name": "ข้าวผัดกะเพราหมู",
+  "calories": 580,
+  "sugar": 1,
+  "sodium": 1586
+ },
+ {
+  "food_name": "ข้าวผัดกุ้งใส่ไข่",
+  "calories": 595,
+  "sugar": 1,
+  "sodium": 300
+ },
+ {
+  "food_name": "ข้าวผัดกุนเชียง",
+  "calories": 590,
+  "sugar": 10,
+  "sodium": 1616
+ },
+ {
+  "food_name": "ข้าวผัดคะน้าหมูกรอบ",
+  "calories": 670,
+  "sugar": 3,
+  "sodium": 2984
+ },
+ {
+  "food_name": "ข้าวผัดต้มยำทะเลแห้ง",
+  "calories": 400,
+  "sugar": 2,
+  "sodium": 2873
+ },
+ {
+  "food_name": "ข้าวผัดน้ำพริกกุ้งสด",
+  "calories": 460,
+  "sugar": 1,
+  "sodium": 169
+ },
+ {
+  "food_name": "ข้าวผัดน้ำพริกเผาหมู",
+  "calories": 665,
+  "sugar": 5,
+  "sodium": 800
+ },
+ {
+  "food_name": "ข้าวผัดปลาเค็ม",
+  "calories": 405,
+  "sugar": 2,
+  "sodium": 769
+ },
+ {
+  "food_name": "ข้าวผัดปูใส่ไข่",
+  "calories": 610,
+  "sugar": 3,
+  "sodium": 968
+ },
+ {
+  "food_name": "ข้าวผัดรวมมิตร (น้ำมันน้อย)",
+  "calories": 210,
+  "sugar": 6,
+  "sodium": 1000
+ },
+ {
+  "food_name": "ข้าวผัดไส้กรอก",
+  "calories": 520,
+  "sugar": 3,
+  "sodium": 1565
+ },
+ {
+  "food_name": "ข้าวผัดหมูใส่ไข่",
+  "calories": 557,
+  "sugar": 8,
+  "sodium": 1082
+ },
+ {
+  "food_name": "ข้าวผัดแหนม",
+  "calories": 610,
+  "sugar": 5,
+  "sodium": 825
+ },
+ {
+  "food_name": "ข้าวผัดอเมริกัน",
+  "calories": 790,
+  "sugar": 9,
+  "sodium": 725
+ },
+ {
+  "food_name": "ข้าวพะแนงเนื้อ",
+  "calories": 457,
+  "sugar": 2,
+  "sodium": 317
+ },
+ {
+  "food_name": "ข้าวมันไก่",
+  "calories": 596,
+  "sugar": 2,
+  "sodium": 642
+ },
+ {
+  "food_name": "ข้าวมันไก่ทอด",
+  "calories": 695,
+  "sugar": 5,
+  "sodium": 1082
+ },
+ {
+  "food_name": "ข้าวราดแกงเขียวหวานไก่",
+  "calories": 483,
+  "sugar": 8,
+  "sodium": 2783
+ },
+ {
+  "food_name": "ข้าวราดผัดผักใส่หมู",
+  "calories": 370,
+  "sugar": 3,
+  "sodium": 1992
+ },
+ {
+  "food_name": "ข้าวราดหน้าไก่",
+  "calories": 400,
+  "sugar": 2,
+  "sodium": 2000
+ },
+ {
+  "food_name": "ข้าวสวย (ข้าวกล้อง)",
+  "calories": 80,
+  "sugar": 0,
+  "sodium": 5
+ },
+ {
+  "food_name": "ข้าวสวย (ข้าวขาว)",
+  "calories": 80,
+  "sugar": 0,
+  "sodium": 1
+ },
+ {
+  "food_name": "ข้าวหน้าเป็ด",
+  "calories": 495,
+  "sugar": 4,
+  "sodium": 1300
+ },
+ {
+  "food_name": "ข้าวหมกไก่",
+  "calories": 534,
+  "sugar": 2,
+  "sodium": 262
+ },
+ {
+  "food_name": "ข้าวหมูแดง",
+  "calories": 541,
+  "sugar": 10,
+  "sodium": 1300
+ },
+ {
+  "food_name": "ข้าวหมูทอด",
+  "calories": 416,
+  "sugar": 4,
+  "sodium": 410
+ },
+ {
+  "food_name": "ข้าวหมูทอดกระเทียม",
+  "calories": 525,
+  "sugar": 5,
+  "sodium": 1252
+ },
+ {
+  "food_name": "ข้าวหมูอบ",
+  "calories": 389,
+  "sugar": 4,
+  "sodium": 546
+ },
+ {
+  "food_name": "ไข่เค็ม",
+  "calories": 75,
+  "sugar": 0,
+  "sodium": 470
+ },
+ {
+  "food_name": "ไข่เจียว",
+  "calories": 215,
+  "sugar": 0,
+  "sodium": 300
+ },
+ {
+  "food_name": "ไข่ดาว",
+  "calories": 215,
+  "sugar": 0,
+  "sodium": 71
+ },
+ {
+  "food_name": "ไข่ต้ม",
+  "calories": 73,
+  "sugar": 0,
+  "sodium": 71
+ },
+ {
+  "food_name": "ไข่ตุ๋น",
+  "calories": 75,
+  "sugar": 1,
+  "sodium": 71
+ },
+ {
+  "food_name": "ไข่ตุ๋นทรงเครื่อง",
+  "calories": 159,
+  "sugar": 5,
+  "sodium": 200
+ },
+ {
+  "food_name": "ไข่พะโล้",
+  "calories": 180,
+  "sugar": 5,
+  "sodium": 69
+ },
+ {
+  "food_name": "ไข่ลวก",
+  "calories": 75,
+  "sugar": 3,
+  "sodium": 1
+ },
+ {
+  "food_name": "ไข่ลูกเขย",
+  "calories": 205,
+  "sugar": 1,
+  "sodium": 124
+ },
+ {
+  "food_name": "ไข่หงส์",
+  "calories": 58,
+  "sugar": 1,
+  "sodium": 11
+ },
+ {
+  "food_name": "ครัวซอง",
+  "calories": 235,
+  "sugar": 11,
+  "sodium": 467
+ },
+ {
+  "food_name": "คอหมูย่าง",
+  "calories": 200,
+  "sugar": 0,
+  "sodium": 112
+ },
+ {
+  "food_name": "คะน้าหมูกรอบ",
+  "calories": 420,
+  "sugar": 1,
+  "sodium": 2984
+ },
+ {
+  "food_name": "โครงไก่ทอด",
+  "calories": 656,
+  "sugar": 0,
+  "sodium": 410
+ },
+ {
+  "food_name": "โจ๊กใส่ไข่",
+  "calories": 250,
+  "sugar": 1,
+  "sodium": 1
+ },
+ {
+  "food_name": "โจ๊กหมู",
+  "calories": 160,
+  "sugar": 1,
+  "sodium": 93
+ },
+ {
+  "food_name": "โจ๊กหมูตับ ใส่ไข่ลวก",
+  "calories": 230,
+  "sugar": 1,
+  "sodium": 300
+ },
+ {
+  "food_name": "ซาลาเปาไส้หมู",
+  "calories": 202,
+  "sugar": 7,
+  "sodium": 300
+ },
+ {
+  "food_name": "ซุปข้าวโพด",
+  "calories": 140,
+  "sugar": 6,
+  "sodium": 300
+ },
+ {
+  "food_name": "ซุปหน่อไม้",
+  "calories": 40,
+  "sugar": 10,
+  "sodium": 2857
+ },
+ {
+  "food_name": "ต้มข่าไก่",
+  "calories": 210,
+  "sugar": 7,
+  "sodium": 4739
+ },
+ {
+  "food_name": "ต้มจับฉ่าย",
+  "calories": 15,
+  "sugar": 6,
+  "sodium": 480
+ },
+ {
+  "food_name": "ต้มจืดเลือดหมู",
+  "calories": 120,
+  "sugar": 4,
+  "sodium": 2010
+ },
+ {
+  "food_name": "ต้มยำกุ้ง",
+  "calories": 65,
+  "sugar": 7,
+  "sodium": 8461
+ },
+ {
+  "food_name": "ต้มยำไก่",
+  "calories": 60,
+  "sugar": 5,
+  "sodium": 1524
+ },
+ {
+  "food_name": "ต้มยำไก่ใส่เห็ด",
+  "calories": 80,
+  "sugar": 3,
+  "sodium": 1540
+ },
+ {
+  "food_name": "ต้มยำปลากระป๋อง",
+  "calories": 55,
+  "sugar": 8,
+  "sodium": 872
+ },
+ {
+  "food_name": "ต้มยำปลากะพง",
+  "calories": 80,
+  "sugar": 5,
+  "sodium": 700
+ },
+ {
+  "food_name": "ต้มยำปลาทู",
+  "calories": 10,
+  "sugar": 5,
+  "sodium": 178
+ },
+ {
+  "food_name": "ต้มยำปลาหมึก",
+  "calories": 9,
+  "sugar": 5,
+  "sodium": 500
+ },
+ {
+  "food_name": "ต้มยำเห็ดสด",
+  "calories": 30,
+  "sugar": 5,
+  "sodium": 600
+ },
+ {
+  "food_name": "ตับไก่ปิ้ง",
+  "calories": 60,
+  "sugar": 2,
+  "sodium": 42
+ },
+ {
+  "food_name": "เต้าหู้ไข่",
+  "calories": 70,
+  "sugar": 2,
+  "sodium": 170
+ },
+ {
+  "food_name": "เต้าหู้ทอด",
+  "calories": 57,
+  "sugar": 2,
+  "sodium": 300
+ },
+ {
+  "food_name": "ทอดมันกุ้ง",
+  "calories": 255,
+  "sugar": 2,
+  "sodium": 119
+ },
+ {
+  "food_name": "ทอดมันปลากราย",
+  "calories": 37,
+  "sugar": 5,
+  "sodium": 685
+ },
+ {
+  "food_name": "เทมปุระ",
+  "calories": 77,
+  "sugar": 1,
+  "sodium": 344
+ },
+ {
+  "food_name": "น่องไก่ทอด",
+  "calories": 345,
+  "sugar": 0,
+  "sodium": 570
+ },
+ {
+  "food_name": "น่องไก่ย่าง",
+  "calories": 97,
+  "sugar": 0,
+  "sodium": 104
+ },
+ {
+  "food_name": "เนื้อไก่ชุบแป้งทอด",
+  "calories": 71,
+  "sugar": 2,
+  "sodium": 490
+ },
+ {
+  "food_name": "เนื้อน้ำตก",
+  "calories": 165,
+  "sugar": 0,
+  "sodium": 1536
+ },
+ {
+  "food_name": "บะหมี่กรอบราดหน้า",
+  "calories": 515,
+  "sugar": 6,
+  "sodium": 2065
+ },
+ {
+  "food_name": "บะหมี่กึ่งสำเร็จรูป",
+  "calories": 253,
+  "sugar": 3,
+  "sodium": 1480
+ },
+ {
+  "food_name": "บะหมี่น้ำน่องไก่",
+  "calories": 375,
+  "sugar": 4,
+  "sodium": 2217
+ },
+ {
+  "food_name": "บะหมี่น้ำเกี๊ยวหมูแดง",
+  "calories": 305,
+  "sugar": 4,
+  "sodium": 1925
+ },
+ {
+  "food_name": "ก๋วยเตี๋ยวเป็ด",
+  "calories": 330,
+  "sugar": 2,
+  "sodium": 640
+ },
+ {
+  "food_name": "บะหมี่แห้งหมูแดง",
+  "calories": 381,
+  "sugar": 4,
+  "sodium": 1813
+ },
+ {
+  "food_name": "ผัดไชโป๊ใส่ไข่",
+  "calories": 415,
+  "sugar": 16,
+  "sodium": 420
+ },
+ {
+  "food_name": "ผัดไทยกุ้งสด",
+  "calories": 486,
+  "sugar": 12,
+  "sodium": 1078
+ },
+ {
+  "food_name": "ผัดไทยวุ้นเส้นกุ้งสด",
+  "calories": 617,
+  "sugar": 18,
+  "sodium": 958
+ },
+ {
+  "food_name": "ผัดบรอกโคลีกุ้ง",
+  "calories": 230,
+  "sugar": 7,
+  "sodium": 1367
+ },
+ {
+  "food_name": "ผัดบวบใส่ไข่",
+  "calories": 210,
+  "sugar": 5,
+  "sodium": 109
+ },
+ {
+  "food_name": "ผัดผักบุ้งไฟแดง",
+  "calories": 433,
+  "sugar": 9,
+  "sodium": 843
+ },
+ {
+  "food_name": "ผัดผักรวมหมู",
+  "calories": 228,
+  "sugar": 7,
+  "sodium": 1440
+ },
+ {
+  "food_name": "ผัดเผ็ดปลาทอดกรอบ",
+  "calories": 409,
+  "sugar": 8,
+  "sodium": 1617
+ },
+ {
+  "food_name": "ผัดพริกขิงกุ้งกับถั่วฝักยาว",
+  "calories": 274,
+  "sugar": 2,
+  "sodium": 833
+ },
+ {
+  "food_name": "ผัดพริกขิงหมูถั่วฝักยาว",
+  "calories": 517,
+  "sugar": 2,
+  "sodium": 913
+ },
+ {
+  "food_name": "ผัดมักกะโรนีกุ้ง",
+  "calories": 731,
+  "sugar": 16,
+  "sodium": 1496
+ },
+ {
+  "food_name": "ผัดมักกะโรนีหมู",
+  "calories": 514,
+  "sugar": 9,
+  "sodium": 843
+ },
+ {
+  "food_name": "พะแนงไก่",
+  "calories": 230,
+  "sugar": 4,
+  "sodium": 296
+ },
+ {
+  "food_name": "พะโล้",
+  "calories": 210,
+  "sugar": 5,
+  "sodium": 218
+ },
+ {
+  "food_name": "ยากิโซบะ",
+  "calories": 400,
+  "sugar": 8,
+  "sodium": 1564
+ },
+ {
+  "food_name": "ยำขนมจีน",
+  "calories": 220,
+  "sugar": 3,
+  "sodium": 1151
+ },
+ {
+  "food_name": "ยำไข่ต้มทรงเครื่อง",
+  "calories": 188,
+  "sugar": 2,
+  "sodium": 1744
+ },
+ {
+  "food_name": "ยำถั่วพู",
+  "calories": 491,
+  "sugar": 1,
+  "sodium": 100
+ },
+ {
+  "food_name": "ยำปลากระป๋อง",
+  "calories": 55,
+  "sugar": 4,
+  "sodium": 749
+ },
+ {
+  "food_name": "ยำปลาดุกฟู",
+  "calories": 275,
+  "sugar": 5,
+  "sodium": 293
+ },
+ {
+  "food_name": "ยำมาม่า",
+  "calories": 215,
+  "sugar": 2,
+  "sodium": 1600
+ },
+ {
+  "food_name": "ยำวุ้นเส้นทะเล",
+  "calories": 427,
+  "sugar": 19,
+  "sodium": 3024
+ },
+ {
+  "food_name": "เย็นตาโฟ",
+  "calories": 290,
+  "sugar": 4,
+  "sodium": 2313
+ },
+ {
+  "food_name": "ราดหน้าบะหมี่กรอบ",
+  "calories": 515,
+  "sugar": 6,
+  "sodium": 2065
+ },
+ {
+  "food_name": "ราดหน้าเส้นใหญ่หมู",
+  "calories": 509,
+  "sugar": 6,
+  "sodium": 2114
+ },
+ {
+  "food_name": "ราดหน้าหมี่กรอบทะเล",
+  "calories": 690,
+  "sugar": 6,
+  "sodium": 2065
+ },
+ {
+  "food_name": "ลาบไก่",
+  "calories": 165,
+  "sugar": 1,
+  "sodium": 75
+ },
+ {
+  "food_name": "ลาบหมู",
+  "calories": 480,
+  "sugar": 6,
+  "sodium": 2518
+ },
+ {
+  "food_name": "วุ้นเส้นผัดไทยกุ้งสด",
+  "calories": 520,
+  "sugar": 48,
+  "sodium": 2791
+ },
+ {
+  "food_name": "สเต๊กไก่",
+  "calories": 354,
+  "sugar": 5,
+  "sodium": 1152
+ },
+ {
+  "food_name": "สเต๊กหมู ",
+  "calories": 505,
+  "sugar": 7,
+  "sodium": 1269
+ },
+ {
+  "food_name": "สุกี้ทะเล",
+  "calories": 489,
+  "sugar": 15,
+  "sodium": 1119
+ },
+ {
+  "food_name": "สุกี้น้ำไก่",
+  "calories": 261,
+  "sugar": 2,
+  "sodium": 747
+ },
+ {
+  "food_name": "สุกี้หมู",
+  "calories": 467,
+  "sugar": 5,
+  "sodium": 920
+ },
+ {
+  "food_name": "เส้นก๋วยเตี๋ยวผัดขี้เมา",
+  "calories": 578,
+  "sugar": 22,
+  "sodium": 2664
+ },
+ {
+  "food_name": "เส้นหมี่ลูกชิ้นน้ำใส",
+  "calories": 225,
+  "sugar": 2,
+  "sodium": 1432
+ },
+ {
+  "food_name": "เส้นใหญ่ผัดซีอิ๊วใส่ไข่",
+  "calories": 730,
+  "sugar": 2,
+  "sodium": 2051
+ },
+ {
+  "food_name": "หมี่ซั่วผัด",
+  "calories": 491,
+  "sugar": 5,
+  "sodium": 1645
+ },
+ {
+  "food_name": "หมูน้ำตก",
+  "calories": 220,
+  "sugar": 4,
+  "sodium": 1430
+ },
+ {
+  "food_name": "หมูปิ้ง",
+  "calories": 125,
+  "sugar": 2,
+  "sodium": 347
+ },
+ {
+  "food_name": "หมูสะเต๊ะ",
+  "calories": 347,
+  "sugar": 2,
+  "sodium": 336
+ },
+ {
+  "food_name": "อกไก่ย่าง",
+  "calories": 157,
+  "sugar": 0,
+  "sodium": 174
+ },
+ {
+  "food_name": "ข้าวกุ้งทอดกระเทียมพริกไทย",
+  "calories": 540,
+  "sugar": 1,
+  "sodium": 426
+ },
+ {
+  "food_name": "ข้าวเหนียวสังขยา",
+  "calories": 199,
+  "sugar": 5,
+  "sodium": 77
+ }
+]
